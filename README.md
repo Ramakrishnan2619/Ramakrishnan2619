@@ -1,5 +1,5 @@
 <h1 align="center">Ramakrishnan S</h1>
-<h3 align="center">AI Systems Engineer | Autonomous Robotics | Full Stack Developer</h3>
+<h3 align="center"> Full Stack Developer | AI Systems Engineer | Autonomous Robotics </h3>
 
 <p align="center">
   <a href="https://github.com/Ramakrishnan2619">
